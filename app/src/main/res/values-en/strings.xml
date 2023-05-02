@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ONOROSO</string>
+    <string name="logout">Logout</string>
+    <string name="edit">Edit</string>
+    <string name="changepassword">Change Password</string>
+    <string name="ntbfood">West Nusa Tenggara Specialties</string>
+    <string name="area">Specialties By Area</string>
+    <string name="profile">Profile</string>
+    <string name="popular">Popular</string>
+    <string name="recommend">Recommended</string>
+    <string name="ingredient">Ingredients :</string>
+    <string name="make">How to make :</string>
+    <string name="changepasswordscreen">Change Password Page</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="changepasswordsucess">Change password is success</string>
+    <string name="changepasswordfail">Change password is failed</string>
+    <string name="signup">Sign Up</string>
+    <string name="loginstead">Login instead?</string>
+    <string name="search">Search</string>
+    <string name="ntb">West Nusa Tenggara</string>
+    <string name="cjava">Central Java</string>
+    <string name="wsumatra">West Sumatra</string>
+    <string name="forgetpassword">Forget Password?</string>
+    <string name="pwresetinfo">Enter your registered email reset below to receive</string>
+    <string name="pwinteruction">Password reset instruction</string>
+    <string name="noacc">Dont have an account yet?</string>
+    <string name="login">Masuk</string>
+    <string name="name">Nama</string>
+    <string name="cjavafood">Central Java Specialties</string>
+    <string name="wsumatrafood">West Sumatra Specialties</string>
+    <string name="savechange">Save</string>
+    <string name="changepass1">Are you sure?</string>
+    <string name="changehere">change down below!</string>
+</resources>

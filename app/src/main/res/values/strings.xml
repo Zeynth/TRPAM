@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ONOROSO</string>
+    <string name="logout">Keluar</string>
+    <string name="edit">Ubah</string>
+    <string name="changepassword">Ganti Kata Sandi</string>
+    <string name="ntbfood">Makanan Khas Nusa Tenggara Barat</string>
+    <string name="area">Makanan Khas Berdasarkan Daerah</string>
+    <string name="profile">Profil</string>
+    <string name="popular">Populer</string>
+    <string name="recommend">Rekomendasi</string>
+    <string name="ingredient">Bahan-bahan :</string>
+    <string name="make">Cara membuat :</string>
+    <string name="changepasswordscreen">Halaman Ganti Kata Sandi</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="confirmpassword">Konfirmasi Kata Sandi</string>
+    <string name="changepasswordsucess">Kata Sandi telah berhasil diubah</string>
+    <string name="changepasswordfail">Kata Sandi gagal diubah</string>
+    <string name="signup">Daftar</string>
+    <string name="loginstead">Ingin masuk?</string>
+    <string name="search">Cari</string>
+    <string name="ntb">Nusa Tenggara Barat</string>
+    <string name="cjava">Jawa Tengah</string>
+    <string name="wsumatra">Sumatra Barat</string>
+    <string name="forgetpassword">Lupa Kata Sandi?</string>
+    <string name="pwresetinfo">Masukkan email terdaftar anda di bawah ini untuk menerima</string>
+    <string name="pwinteruction">Instruksi reset kata sandi</string>
+    <string name="noacc">Belum memiliki akun?</string>
+    <string name="login">Masuk</string>
+    <string name="name">Nama</string>
+    <string name="cjavafood">Makanan Khas Jawa Tengah</string>
+    <string name="wsumatrafood">Makanan Khas Sumatra Barat</string>
+    <string name="savechange">Simpan</string>
+    <string name="changepass1">Yakin ingin mengganti password?</string>
+    <string name="changehere">Ganti di bawah!</string>
+</resources>
